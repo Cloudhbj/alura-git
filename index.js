@@ -27,5 +27,6 @@ console.log(`Ricardo: CPF -> `, cliente1.cpf, ", Saldo -> ", contaCorrenteRicard
 console.log(`Alice:   CPF -> `, cliente2.cpf, ", Saldo -> ", conta2.saldo);
 console.log("\n->", ContaCorrente.numeroDeContas, " contas foram criadas até o momento.\n\n");
 
-console.log("Testando o Git... Atualização da Ana"); 
+console.log("Testando o Git... Atualização da Ana");
+console.log("Testando branch..."); 
 
