@@ -29,6 +29,9 @@ console.log("\n->", ContaCorrente.numeroDeContas, " contas foram criadas até o 
 
 console.log("Testando o Git... Atualização da Ana");
 console.log("Testando branch..."); 
+<<<<<<< HEAD
 console.log("Test");
 console.log("theByteBank OK!");
+=======
+>>>>>>> 45ba7b5596c5be7a02b296e9f721dbed024a09f4
 
