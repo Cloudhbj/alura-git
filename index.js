@@ -21,7 +21,7 @@ console.log(`Ricardo ->`, contaCorrenteRicardo, `\nAlice`, conta2);
 
 let valor = 200;
 contaCorrenteRicardo.transferir(valor, conta2);
-
+//--A------------------------------------------------
 
 console.log(`Ricardo: CPF -> `, cliente1.cpf, ", Saldo -> ", contaCorrenteRicardo.saldo);
 console.log(`Alice:   CPF -> `, cliente2.cpf, ", Saldo -> ", conta2.saldo);
@@ -32,4 +32,5 @@ console.log("Testando branch...");
 console.log("Test");
 console.log("theByteBank OK!");
 
+//--B-------------------------------------
 console.log("Ana está OK!");
