@@ -6,7 +6,7 @@ import {Conta} from "./Conta.js";
 
 
 //console.clear(); // não funciona corretamente
-console.log("\n\n ----->  T Í T U L O   Início... OK\n\n");
+console.log("\n\n ----->  INÍCIO \n\n");
 
 const cliente1 = new Cliente("Ricardo", 11122233309);
 const cliente2 = new Cliente("Alice", 88822233309);
@@ -30,5 +30,6 @@ console.log("\n->", ContaCorrente.numeroDeContas, " contas foram criadas até o 
 console.log("Testando o Git... Atualização da Ana");
 console.log("Testando branch..."); 
 console.log("Test");
-console.log("Ana está OK!");
+console.log("theByteBank OK!");
 
+console.log("Ana está OK!");
