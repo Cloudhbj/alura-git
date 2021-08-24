@@ -6,7 +6,10 @@ import {Conta} from "./Conta.js";
 
 
 //console.clear(); // não funciona corretamente
+//---TÍTULO--------------------------------------
 console.log("\n\n ----->  INÍCIO \n\n");
+
+//-------------------------------------------------
 
 const cliente1 = new Cliente("Ricardo", 11122233309);
 const cliente2 = new Cliente("Alice", 88822233309);
@@ -32,5 +35,5 @@ console.log("Testando branch...");
 console.log("Test");
 console.log("theByteBank OK!");
 
-//--B-------------------------------------
+//--B--------------------------------------
 console.log("Ana está OK!");
