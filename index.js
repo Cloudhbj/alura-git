@@ -7,7 +7,7 @@ import {Conta} from "./Conta.js";
 
 //console.clear(); // não funciona corretamente
 //---TÍTULO--------------------------------------
-console.log("\n\n ----->  INÍCIO \n\n");
+console.log("\n\n ----->  INÍCIOoooooooooo \n\n");
 
 //-------------------------------------------------
 
