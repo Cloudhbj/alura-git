@@ -8,7 +8,7 @@ import {Conta} from "./Conta.js";
 //console.clear(); // não funciona corretamente
 //---TÍTULO--------------------------------------
 console.log("\n\n ----->  INÍCIO \n\n");
-
+console.log("Testando git...");
 //-------------------------------------------------
 
 const cliente1 = new Cliente("Ricardo", 11122233309);
